@@ -29,7 +29,12 @@ namespace WindowsFormsApp3
 
         private void button3_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "Andrejs";
+            textBox1.Text = "Zafar";
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
